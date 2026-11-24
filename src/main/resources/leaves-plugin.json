@@ -1,0 +1,11 @@
+{
+  "name": "BigBarrel",
+  "version": "0.2.0",
+  "main": "world.bigbarrel.BigBarrelPlugin",
+  "api-version": "26.3",
+  "folia-supported": true,
+  "mixin": {
+    "package-name": "world.bigbarrel.inject",
+    "mixins": ["bigbarrel.mixins.json"]
+  }
+}
